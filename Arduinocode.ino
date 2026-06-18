@@ -11,7 +11,7 @@ int distance = 0;
   myServo.write(90);
 
 
-  // put your setup code here, to run once:
+
 
 
 
@@ -69,6 +69,6 @@ Serial.println(".");
 }
 
 
-  // put your main code here, to run repeatedly:
+
 
 }
